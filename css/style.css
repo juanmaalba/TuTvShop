@@ -1,0 +1,47 @@
+body{
+    background-color:#BFBFBF ;
+}
+h1,h3{
+    color: #733A26;
+}
+h2{
+    color: #BFBFBF ;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    color: black;
+}
+/*Index*/
+.colorNav{
+    background-color: #733A26;
+    
+}
+.precio{
+    color: white;
+    border: solid #733A26;
+    background-color: #733A26;
+}
+.colorBoton{
+    color: white;
+    background-color: #733A26;
+}
+.colorBoton1{
+    background-color: #BFBFBF;
+}
+
+
+/*Productos*/
+
+
+
+
+
+/*Contactos*/
+.formStyle{
+    border: solid 2px #733A26;
+    padding: 1rem;
+    margin-top: 1rem;
+}
